@@ -1,0 +1,268 @@
+#score {
+	width: 91%;
+	overflow: scroll;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    margin-top: 41px;
+    margin-bottom: 54px;
+}
+
+#notes {
+	width: 410px;
+}
+
+#tomPic{
+	
+    margin-top: 2px;
+    margin-left: 69px;
+    width: 50%;
+    
+
+}
+
+#tomTitle {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    margin-top: 5px;
+    margin-left: 52px;
+    margin-right: 82px;
+    padding-left: 21px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-size: 32px;
+	
+}
+
+#pointList {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 19px;
+    width: 36%;
+    margin-left: 96px;
+}
+
+.pointText {
+	font-size: 19px;
+}
+
+.butt {
+	font-weight: bold;
+    font-size: 24px;
+    color: #7343B8;
+    margin-left: 20px;
+    margin-top: 9px;
+    border-radius: 14px
+}
+
+#scores {
+	color: #7343B8;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: 36px;
+    margin-right: 68px;
+}
+
+#logOrSign {
+	font-family: 'Coiny', cursive;
+    font-size: 43px;
+    margin-left: 139px;
+    margin-right: 107px;
+    margin-bottom: 185px;
+    margin-top: 159px;
+}
+
+.green {
+	color:#74e947;
+	font-size: 22px;
+
+}
+
+.red {
+	color: red;
+	font-size: 22px;
+}
+
+@media only screen and (max-width: 1199px){
+.butt {
+	font-weight: bold;
+    font-size: 24px;
+    color: #7343B8;
+    margin-left: 28px;
+    margin-top: 9px;
+    border-radius: 14px
+}
+
+#pointList {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 9px;
+    width: 51%;
+    margin-left: 37px;
+}
+
+#tomTitle {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    margin-top: -1px;
+    margin-left: 10px;
+    margin-right: 82px;
+    padding-left: 21px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-size: 27px;
+	
+}
+
+#tomPic{
+	
+    margin-top: 19px;
+    margin-left: 32px;
+    width: 50%;
+    
+
+}
+
+#score {
+	width: 90%;
+    overflow: scroll;
+    border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    margin-top: 86px;
+    margin-bottom: 54px;
+}
+
+}
+
+@media only screen and (max-width: 991px){
+.butt {
+	font-weight: bold;
+    font-size: 24px;
+    color: #7343B8;
+    margin-left: 28px;
+    margin-top: 9px;
+    border-radius: 14px
+}
+
+#pointList {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 244px;
+    width: 20%;
+    margin-left: -69px;
+}
+
+#tomTitle {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    margin-top: -1px;
+    margin-left: 254px;
+    margin-right: 228px;
+    padding-left: 21px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-size: 34px;
+	
+}
+
+#tomPic{
+	
+    margin-top: 19px;
+    margin-left: 188px;
+    width: 50%;
+    
+
+}
+
+#score {
+	width: 90%;
+    overflow: scroll;
+    border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    margin-top: -394px;
+    margin-bottom: 54px;
+    margin-left: 125px;
+}
+
+}
+
+@media only screen and (max-width: 869px){
+.butt {
+	font-weight: bold;
+    font-size: 16px;
+    color: #7343B8;
+    margin-left: 19px;
+    margin-top: 9px;
+    border-radius: 14px;
+    width: 63%;
+
+}
+
+#pointList {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 244px;
+    width: 15%;
+    margin-left: 0px;
+}
+
+#tomTitle {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    margin-top: -1px;
+    margin-left: 254px;
+    margin-right: 228px;
+    padding-left: 21px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-size: 34px;
+	
+}
+
+#tomPic{
+	
+    margin-top: 19px;
+    margin-left: 222px;
+    width: 50%;
+    
+
+}
+
+#score {
+	width: 81%;
+    overflow: scroll;
+    border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    margin-top: -394px;
+    margin-bottom: 54px;
+    margin-left: 125px;
+}
+
+}

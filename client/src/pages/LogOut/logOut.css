@@ -1,0 +1,44 @@
+#laterOn {
+	background: #7343B8;
+	font-family: 'Coiny', cursive;
+	border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 7px;
+    margin-left: 146px;
+    margin-right: 46px;
+    width: 73%;
+    font-size: 36px;
+    margin-top: 169px;
+}
+
+#tom {
+	margin-top: 20px;
+    margin-bottom: 37px;
+}
+
+@media only screen and (max-width: 991px){
+#laterOn {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 7px;
+    margin-left: 61px;
+    margin-right: 46px;
+    width: 73%;
+    font-size: 36px;
+    margin-top: -16px;
+    margin-bottom: 51px;
+}
+
+#tom {
+	margin-top: 20px;
+    margin-bottom: 37px;
+    width: 50%;
+    margin-left: 194px;
+}
+}

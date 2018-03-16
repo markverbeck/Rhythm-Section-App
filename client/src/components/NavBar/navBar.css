@@ -1,0 +1,303 @@
+.navStyle {
+	background: #7343B8;
+	border: 6px outset #74e947;
+	
+}
+
+.text {
+	color: white;
+	font-size: 20px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: #DED1EB;
+}
+
+.textHead {
+	color: white;
+	font-size: 22px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 3px;
+	
+
+}
+a:focus, a:hover {
+	background-color: #DED1EB;
+	color:#7343B8 ;
+	text-decoration: underline;
+    text-decoration-color: #7343B8;
+}
+
+ .nav>li>a:hover {
+	background-color: #DED1EB;
+	color:#7343B8 ;
+	margin-left: 2px;
+	text-decoration: underline;
+    text-decoration-color: #7343B8;
+}
+.nav>li>a: focus {
+	background-color: #DED1EB;
+	color:#7343B8 ;
+	
+}
+
+.dropdown-menu {
+	background-color: #7343B8;
+
+	
+} 
+
+.dropdown-menu>li>a {
+	color:white ;
+}
+
+.dropdown-menu>li>a:hover {
+	background-color: #DED1EB;
+	color:#7343B8 ;
+	margin-left: 2px;
+	margin-right: 2px;
+	text-decoration: underline;
+    text-decoration-color: #7343B8;
+}
+
+#userName {
+	
+    font-size: 32px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 156px;
+}
+
+#dropButton {
+	border: 6px outset #74e947;
+	margin-right: 43px;
+    margin-top: 16px;
+}
+
+.icon-bar {
+	background: #74e947;
+}
+
+@media only screen and (max-width: 1246px){
+
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 82px;
+}
+
+}
+
+
+@media only screen and (max-width: 1154px){
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 40px;
+}
+
+
+
+}
+
+@media only screen and (max-width: 1169px){
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 34px;
+}
+
+}
+
+
+@media only screen and (max-width: 1169px){
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 17px;
+}
+
+#userName {
+	
+    font-size: 29px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+}
+
+@media only screen and (max-width: 1086px){
+#tomNav {
+	width: 4%;
+	margin-top: 7px;
+	margin-left: 17px;
+}
+
+#userName {
+	
+    font-size: 23px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+}
+
+
+@media only screen and (max-width: 1056px){
+#tomNav {
+	width: 4%;
+	margin-top: 12px;
+	margin-left: 17px;
+}
+
+#userName {
+	
+    font-size: 19px;
+    margin-top: 31px;
+    text-decoration: none;
+}
+
+.text {
+	color: white;
+	font-size: 16px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: #DED1EB;
+}
+
+.textHead {
+	color: white;
+	font-size: 18px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 3px;
+	
+
+}
+
+}
+
+@media only screen and (max-width: 907px){
+#tomNav {
+	width: 4%;
+	margin-top: 12px;
+	margin-left: 17px;
+}
+
+#userName {
+	
+    font-size: 16px;
+    margin-top: 31px;
+    text-decoration: none;
+}
+
+.text {
+	color: white;
+	font-size: 13px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: #DED1EB;
+}
+
+.textHead {
+	color: white;
+	font-size: 15px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 3px;
+	
+
+}
+}
+
+@media only screen and (max-width: 795px){
+#tomNav {
+	width: 4%;
+	margin-top: 17px;
+	margin-left: 26px;
+}
+
+#userName {
+	
+    font-size: 14px;
+    margin-top: 31px;
+    text-decoration: none;
+}
+
+.text {
+	color: white;
+	font-size: 11px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: #DED1EB;
+}
+
+.textHead {
+	color: white;
+	font-size: 13px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 3px;
+	
+
+}
+}
+
+@media only screen and (max-width: 767px){
+#tomNav {
+	width: 12%;
+    margin-top: 17px;
+    margin-left: -10px;
+    margin-bottom: 15px;
+}
+
+#userName {
+	
+    font-size: 36px;
+    margin-top: -65px;
+    text-decoration: none;
+    margin-left: 71px;
+}
+
+.text {
+	color: white;
+	font-size: 24px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: #DED1EB;
+}
+
+.textHead {
+	color: white;
+	font-size: 30px;
+	font-family: 'Coiny', cursive;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	margin-left: 3px;
+	
+
+}
+}

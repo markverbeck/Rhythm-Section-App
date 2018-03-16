@@ -1,0 +1,351 @@
+#aKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 20%;
+    margin-right: 35px;
+    margin-left: 285px;
+}
+
+.equal {
+	display: inline;
+}
+
+#aNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 18%;
+    margin-left: 32px;
+    margin-right: 288px;
+}
+
+#dKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 20%;
+    margin-right: 35px;
+    margin-left: 285px;
+}
+
+#gNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 18%;
+    margin-left: 32px;
+    margin-right: 288px;
+}
+
+#mKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 20%;
+    margin-right: 35px;
+    margin-left: 285px;
+}
+
+#mute {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 18%;
+    margin-left: 33px;
+    margin-right: 288px;
+}
+
+.keys {
+	margin-bottom: 46px;
+}
+
+.top-row {
+	margin-top: 43px;
+}
+
+#video{
+	
+    margin-top: 24px;
+    margin-bottom: 58px;
+}
+
+#inst {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    width: 26%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 432px;
+}
+
+#warning {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+@media only screen and (max-width: 1199px){
+#aKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 269px;
+}
+
+#dKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 269px;
+}
+
+#mKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 269px;
+}
+
+#aNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+   
+}
+
+#gNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+    margin-right: 288px;
+}
+
+#mute {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 14%;
+    margin-left: 33px;
+    
+}
+
+#inst {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    width: 30%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 327px;
+}
+
+#warning {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-right: 19px;
+}
+
+#video{
+	
+    margin-top: 24px;
+    margin-bottom: 58px;
+    margin-right: 19px;
+}
+
+
+}
+
+@media only screen and (max-width: 991px){
+#aKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 39px;
+}
+
+#dKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    
+    margin-left: 190px
+}
+
+#mKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+#aNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+    margin-right: 26px;
+   
+}
+
+#gNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+    margin-right: 288px;
+    margin-right: 174px;
+}
+
+#mute {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 14%;
+    margin-left: 33px;
+    margin-right: 24px;
+    
+}
+
+#inst {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    width: 41%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 224px;
+}
+
+#warning {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-right: -16px;
+}
+
+#video{
+	
+    margin-top: 24px;
+    margin-bottom: 58px;
+    margin-right: -25px;
+}
+
+
+}
+
+@media only screen and (max-width: 767px){
+#aKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 47px;
+}
+
+#dKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    
+    margin-left: 190px
+}
+
+#mKey {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+#aNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+    margin-right: 31px;
+   
+}
+
+#gNote {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 32px;
+    margin-right: 288px;
+    margin-right: 174px;
+}
+
+#mute {
+	display: inline;
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 14%;
+    margin-left: 33px;
+    margin-right: 24px;
+    
+}
+
+#inst {
+	color: white;
+    background: #7343B8;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    width: 41%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-left: 224px;
+}
+
+#warning {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-right: -16px;
+}
+
+#video{
+	
+    margin-top: 24px;
+    margin-bottom: 58px;
+    margin-right: -25px;
+}
+
+
+}

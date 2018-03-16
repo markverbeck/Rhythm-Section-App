@@ -1,0 +1,12 @@
+.formTitles {
+	color:#7343B8 ;
+	text-decoration: underline;
+    text-decoration-color: #7343B8;
+    font-family: 'Indie Flower', cursive;
+    font-size: 26px;
+    margin-bottom: 7px;
+}
+
+form {
+	margin-bottom: 30px;
+}

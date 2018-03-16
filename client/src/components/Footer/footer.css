@@ -1,0 +1,168 @@
+.icon{
+	width: 12%;
+    display: inherit;
+    margin-right: 41px;
+    margin-top: 39px;
+
+}
+
+#icon{
+	width: 15%;
+}
+
+#iTunes{
+	width: 15%;
+}
+
+#google {
+	width: 15%;
+}
+
+#footer{
+	background: #7343B8;
+	border: 6px outset #74e947;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+.block1{
+	padding-left: 129px;
+}
+
+.block3{
+ 	padding-left: 129px;
+}
+.block2{
+    font-size: 12px;
+    margin-top: 11px;
+    margin-bottom: 1px;
+}
+
+.footText {
+	font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 9px;
+}
+
+.linkFoot{
+	color: #74e947;
+}
+a{
+	color: #74e947;
+}
+a:hover{
+	color: white;
+	background: none;
+}
+
+p{
+	margin-bottom: 0px;
+}
+@media only screen and (max-width: 1050px){
+.icon{
+	width: 12%;
+    display: inherit;
+    margin-right: 41px;
+    margin-top: 39px;
+
+
+}
+
+#icon{
+	width: 15%;
+	margin-left: -40px;
+}
+
+#iTunes{
+	width: 15%;
+	margin-left: -38px;
+}
+}
+
+@media only screen and (max-width: 991px){
+.icon{
+	width: 9%;
+    display: inherit;
+    margin-right: 41px;
+    margin-top: 39px;
+
+}
+
+#icon{
+	width: 12%;
+	margin-left: 188px;
+}
+
+#iTunes{
+	width: 10%;
+	margin-left: 202px;
+}
+
+#google {
+	width: 10%;
+}
+
+.block3 {
+	margin-bottom: 35px;
+    margin-top: -22px;
+}
+}
+
+@media only screen and (max-width: 845px){
+.icon{
+	width: 9%;
+    display: inherit;
+    margin-right: 41px;
+    margin-top: 39px;
+
+}
+
+#icon{
+	width: 12%;
+	margin-left: 137px;
+}
+
+#iTunes{
+	width: 10%;
+    margin-left: 153px;
+}
+
+#google {
+	width: 10%;
+}
+
+.block3 {
+	margin-bottom: 35px;
+    margin-top: -22px;
+}
+}
+
+@media only screen and (max-width: 845px){
+.icon{
+	width: 9%;
+    display: inherit;
+    margin-right: 41px;
+    margin-top: 39px;
+
+}
+
+#icon{
+	width: 12%;
+	margin-left: 117px;
+}
+
+#iTunes{
+	width: 10%;
+    margin-left: 133px;
+}
+
+#google {
+	width: 10%;
+}
+
+.block3 {
+	margin-bottom: 35px;
+    margin-top: -22px;
+}
+}

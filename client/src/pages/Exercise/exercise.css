@@ -1,0 +1,452 @@
+.Text {
+	background: #7343B8;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    font-size: 19px;
+    line-height: 1.5;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 29px;
+    letter-spacing: 2px;
+    margin-bottom: 63px;
+    margin-top: 35px;
+}
+
+#picOne {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 54%;
+    margin-left: 125px;
+    margin-top: 63px;
+}
+
+#picTwo {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 60%;
+    margin-left: 103px;
+    margin-top: 57px;
+}
+
+#picThree {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 72%;
+    margin-left: 75px;
+    margin-top: 92px;
+}
+
+#picFour {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 72%;
+    margin-left: 71px;
+    margin-top: 123px;
+}
+
+#picFive {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 76%;
+    margin-left: 80px;
+    margin-top: 112px;
+}
+
+.link {
+	font-family: 'Coiny', cursive;
+	font-size: 29px;
+}
+
+a:focus, a: hover {
+	color: #F6EFFB;
+}
+
+#wholeNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 172px;
+    margin-top: 53px;
+}
+
+#wholeRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 35%;
+    margin-top: 57px;
+    margin-left: 73px;
+}
+
+#halfNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 172px;
+    margin-top: 57px;
+}
+
+#halfRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 33%;
+    margin-top: 57px;
+    margin-left: 73px;
+}
+
+#quarterNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 172px;
+    margin-top: 53px;
+}
+
+#quarterRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-top: 55px;
+    margin-left: 73px;
+}
+
+#eighthNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 38%;
+    margin-left: 159px;
+    margin-top: 62px;
+
+}
+
+#eighthRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-top: 57px;
+    margin-left: 73px;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1199px){
+	.Text {
+	background: #7343B8;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    font-size: 17px;
+    line-height: 1.5;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 29px;
+    letter-spacing: 2px;
+    margin-bottom: 63px;
+    margin-top: 35px;
+}
+
+#picOne {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 66%;
+    margin-left: 125px;
+    margin-top: 63px;
+}
+
+#picTwo {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 72%;
+    margin-left: 21px;
+    margin-top: 59px;
+}
+
+#picThree {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 87%;
+    margin-left: 63px;
+    margin-top: 113px;
+}
+
+#picFour {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 81%;
+    margin-left: 14px;
+    margin-top: 123px;
+}
+
+#picFive {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 82%;
+    margin-left: 73px;
+    margin-top: 121px;
+}
+
+.link {
+	font-family: 'Coiny', cursive;
+	font-size: 23px;
+}
+
+#wholeNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 128px;
+    margin-top: 53px;
+}
+
+#wholeRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 35%;
+    margin-top: 57px;
+    margin-left: 73px;
+}
+
+#halfNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 128px;
+    margin-top: 57px;
+}
+
+#halfRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 33%;
+    margin-top: 57px;
+    margin-left: 76px;
+}
+
+#quarterNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-left: 128px;
+    margin-top: 53px;
+}
+
+#quarterRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-top: 55px;
+    margin-left: 78px;
+}
+
+#eighthNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 38%;
+    margin-left: 114px;
+    margin-top: 62px;
+
+}
+
+#eighthRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 30%;
+    margin-top: 57px;
+    margin-left: 79px;
+}
+
+#rhythm {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-left: 327px;
+    margin-right: 320px;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    margin-bottom: 66px;
+    margin-top: 53px;
+}
+
+}
+
+@media only screen and (max-width: 991px){
+	.Text {
+	background: #7343B8;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    font-size: 13px;
+    line-height: 1.5;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 29px;
+    letter-spacing: 2px;
+    margin-bottom: 63px;
+    margin-top: 35px;
+    
+}
+
+#picOne {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 37%;
+    margin-left: 446px;
+    margin-top: -273px;
+}
+
+#picTwo {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 38%;
+    margin-left: 28px;
+    margin-top: 80px;
+}
+
+#picThree {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 40%;
+    margin-left: 432px;
+    margin-top: -265px;
+}
+
+#picFour {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 40%;
+    margin-left: 14px;
+    margin-top: 193px;
+}
+
+#picFive {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 40%;
+    margin-left: 432px;
+    margin-top: -289px;}
+
+.link {
+	font-family: 'Coiny', cursive;
+	font-size: 23px;
+}
+
+#wholeNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 326px;
+    margin-top: 250px;
+}
+
+#wholeRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 18%;
+    margin-top: -28px;
+    margin-left: 314px;
+}
+
+#halfNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 326px;
+    margin-top: 144px;
+}
+
+#halfRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 17%;
+    margin-top: -28px;
+    margin-left: 317px;
+}
+
+#quarterNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-left: 326px;
+    margin-top: 144px;
+}
+
+#quarterRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-top: -28px;
+    margin-left: 326px;
+}
+
+#eighthNote {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 19%;
+    margin-left: 314px;
+    margin-top: 144px;
+
+}
+
+#eighthRest {
+	border: 10px outset #7343B8;
+    outline: 5px outset #74e947;
+    width: 15%;
+    margin-top: -28px;
+    margin-left: 326px;
+}
+
+#rhythm {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-left: 265px;
+    margin-right: 183px;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    margin-bottom: 66px;
+    margin-top: 53px;
+}
+
+.divy {
+	width:50%;
+}
+
+#rightText{
+	margin-left: 401px;
+    margin-top: -241px;
+}
+
+#rightText2 {
+	margin-left: 401px;
+    margin-top: -265px;
+    
+}
+
+.notes{
+	margin-left: 209px;
+}
+
+#footerText {
+	margin-top: 119px;
+    margin-bottom: 25px;
+}
+
+#titles {
+	margin-left: 1px;
+}
+
+}

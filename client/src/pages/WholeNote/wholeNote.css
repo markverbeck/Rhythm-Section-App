@@ -1,0 +1,80 @@
+.example {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-left: 292px;
+    margin-right: 297px;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    margin-bottom: 66px;
+    margin-top: 53px;
+}
+
+iframe {
+	border: 19px outset #7343B8;
+    outline: 10px outset #74e947; 
+}
+
+.exampDescrip{
+	font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+}
+
+.noteExample {
+	margin-bottom: 75px;
+}
+
+@media only screen and (max-width: 1199px){
+.example {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-left: 248px;
+    margin-right: 229px;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    margin-bottom: 66px;
+    margin-top: 53px;
+    font-size: 29px;
+}
+
+.exampDescrip{
+	font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+}
+
+}
+
+@media only screen and (max-width: 991px){
+	.example {
+	background: #7343B8;
+    font-family: 'Coiny', cursive;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-left: 197px;
+    margin-right: 172px;
+    border-radius: 23px;
+    border: 6px outset #74e947;
+    color: white;
+    margin-bottom: 66px;
+    margin-top: 53px;
+    font-size: 22px;
+}
+
+.exampDescrip{
+	font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+}
+
+#onOff{
+	font-size: 28px;
+}
+
+#FTE {
+	font-size: 28px;
+}
+}

@@ -1,0 +1,107 @@
+.stats{
+	background: #7343B8;
+    padding: 12px;
+    margin-bottom: 23px;
+    border: 6px outset #74e947;
+    border-radius: 23px;
+}
+
+.well{
+	padding-top: 10px;
+    padding-bottom: 6px;
+    padding-right: 13px;
+    padding-left: 13px;
+    color: #7343B8;
+    font-family: 'Coiny', cursive;
+    background: #f6effb;
+}
+
+.underline {
+	margin-left: 12px;
+    font-family: 'Coiny', cursive;
+    text-decoration: underline;
+    margin-right: 20px;
+}
+
+.stat {
+	margin-left: 16px;
+    color: #f6effb;
+    font-family: 'Indie Flower', cursive;
+}
+
+#yourStats {
+	background: #7343B8;
+    padding-bottom: 2px;
+    border: 6px outset #74e947;
+    border-radius: 23px;
+    width: 58%;
+    font-family: 'Coiny', cursive;
+    color: #f6effb;
+    margin-left: 260px;
+    margin-bottom: 45px;
+    margin-top: 24px;
+}
+
+@media only screen and (max-width: 1199px){
+#yourStats {
+	background: #7343B8;
+    padding-bottom: 2px;
+    border: 6px outset #74e947;
+    border-radius: 23px;
+    width: 58%;
+    font-family: 'Coiny', cursive;
+    color: #f6effb;
+    margin-left: 199px;
+    margin-bottom: 45px;
+    margin-top: 24px;
+}
+
+#hello {
+	font-size: 34px
+}
+
+.stat {
+	margin-left: 16px;
+    color: #f6effb;
+    font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+}
+
+}
+
+@media only screen and (max-width: 991px){
+#yourStats {
+	background: #7343B8;
+    padding-bottom: 2px;
+    border: 6px outset #74e947;
+    border-radius: 23px;
+    width: 58%;
+    font-family: 'Coiny', cursive;
+    color: #f6effb;
+    margin-left: 167px;
+    margin-bottom: 45px;
+    margin-top: 24px;
+}
+
+#hello {
+	font-size: 25px;
+}
+
+.stat {
+	margin-left: 16px;
+    color: #f6effb;
+    font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+}
+
+.stats{
+	background: #7343B8;
+    padding: 12px;
+    margin-bottom: 23px;
+    border: 6px outset #74e947;
+    border-radius: 23px;
+    width: 39%;
+    margin-left: 226px;
+}
+
+}
