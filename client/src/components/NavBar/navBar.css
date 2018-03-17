@@ -39,7 +39,7 @@ a:focus, a:hover {
 	text-decoration: underline;
     text-decoration-color: #7343B8;
 }
-.nav>li>a: focus {
+.nav>li>a:focus {
 	background-color: #DED1EB;
 	color:#7343B8 ;
 	
